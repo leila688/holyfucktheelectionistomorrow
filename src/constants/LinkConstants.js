@@ -73,6 +73,10 @@ export const LINKS_LIST = {
 				link: "http://srlp.org/srlp/?page=CiviCRM&q=civicrm/contribute/transact&reset=1&id=4"
 			},
 			{
+				text: "The National Center for Lesbian Rights",
+				link: "http://www.nclrights.org/give/"
+			},
+			{
 				text: "EVERYONE IS GAY",
 				link: "http://everyoneisgay.com/donate/"
 			}
